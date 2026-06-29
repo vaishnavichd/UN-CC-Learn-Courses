@@ -34,10 +34,5 @@ Tracking my progress and notes for the UN CC:Learn Sustainable Finance Taxonomie
 #### 💡 Key Takeaway:
 While the EU relies on a threshold-based disclosure system to enforce pure-green market transparency, China uses a project-based whitelist system to accelerate state-led transition finance and direct industrial upgrades.
 
-
-- 
-- 
-- 
-
 ## 🏆 Verified Credentials
 *(Certificates will be uploaded here upon course completion before July 20!)*
